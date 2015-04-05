@@ -33,5 +33,5 @@ if(!require(knitr)) {
   install.packages(pkgs = 'knitr',quiet = TRUE)
   require(knitr)
 }
-runGitHub(username = 'guanlongtianzi',repo = 'shinyOfAdaboost') 
+runGitHub(username = 'guanlongtianzi',repo = 'shinyOfSTNB') 
 ```
